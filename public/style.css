@@ -1,0 +1,22 @@
+/* .bd{
+    background-color: aqua;
+} */
+.bd{
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(180deg, #CDD1DB 0%, rgba(2, 69, 240, 0.9) 100%);
+}
+.footer {
+    position: fixed;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    background: black;
+    color: white;
+}
+
+.footer h6{
+    text-align: center;
+}
+
